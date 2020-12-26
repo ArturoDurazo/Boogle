@@ -15,4 +15,7 @@ too long to finish loading all the words. In the second mode (4x4), however, a t
 words way faster. Even if the board is significantly bigger, it does a fantastic job with it, a job that the first board would
 not be able to do since it would take too long to actually finish.
 
-![](Images/boogle4x4.PNG)
+<p align="center">
+  <img src="Images/boogle4x4.PNG">
+</p>
+
