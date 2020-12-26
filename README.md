@@ -1,5 +1,6 @@
 # Boogle
 
+# About
 The present school project consists of a Boogle game with two modes. The first mode is a 3x3 board and the second with a 4x4. Boogle is a 
 game where the objective is to create words made up from adjoining letters in the board– the letters must touch each other – 
 and must be able to connect to each other in the proper sequence to spell the word correctly. The letters may join in any direction
